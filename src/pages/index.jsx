@@ -93,10 +93,10 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Google Summer of Code 2019"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            link="https://summerofcode.withgoogle.com/projects/#6387494919077888"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Web Interface for Representation of NLP based extracted Text
+            Web Interface for Representation of NLP based extracted Text under National Resource for Network Biology
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
