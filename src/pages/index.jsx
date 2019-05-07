@@ -86,7 +86,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="JU Connect"
-            link="https://github.com/JU-Connect"
+            link="https://github.com/RohitChattopadhyay/JU-Connect"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             University Students Notification system
