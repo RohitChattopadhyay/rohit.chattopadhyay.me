@@ -4,6 +4,11 @@ const GlobalStyle = createGlobalStyle`
   *, *:before, *:after {
     box-sizing: inherit;
   }
+  .babarName{
+    fontSize:10em;
+    cursor: pointer; 
+    transition: all 1s;
+  }
   html {
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
