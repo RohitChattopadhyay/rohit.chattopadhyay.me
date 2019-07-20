@@ -96,7 +96,8 @@ const Index = () => (
             link="https://summerofcode.withgoogle.com/projects/#6387494919077888"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Web Interface for Representation of NLP based extracted Text under National Resource for Network Biology
+            Web Interface for Representation of NLP based extracted Text under National Resource for Network Biology<br/>
+            <a href="https://rohitchattopadhyay.github.io/ihop-reach/" target="_blank">Progress Reports</a>
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -122,8 +123,9 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:rohit.chattopadhyay1@gmail.com">Hi</a> or find me on other platforms:{' '}
-            <a href="http://m.me/chattopadhyayrohit">Messenger</a> &{' '}
-            <a href="https://www.linkedin.com/in/rohitchattopadhyay/">Linkedin</a>
+            <a href="http://m.me/chattopadhyayrohit" target="_blank">Messenger</a> &{' '}
+            <a href="https://www.linkedin.com/in/rohitchattopadhyay/" target="_blank">Linkedin</a><br/>
+            I have started to maintain a <a href="https://rohitchattopadhyay.github.io" target="_blank">Blog</a>, (great) content is brewing.
           </ContactText>
         </Inner>
         <Footer>
