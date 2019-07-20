@@ -78,6 +78,14 @@ const Index = () => (
             An internship aggregator providing summer internships to University Students
           </ProjectCard>
           <ProjectCard
+            title="Google Summer of Code 2019"
+            link="https://summerofcode.withgoogle.com/projects/#6387494919077888"
+            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+          >
+            Web Interface for Representation of NLP based extracted Text under National Resource for Network Biology<br/>
+            <a href="https://rohitchattopadhyay.github.io/ihop-reach/" target="_blank">Progress Reports</a>
+          </ProjectCard>
+          <ProjectCard
             title="Image Segmentation"
             // link="https://www.behance.net/gallery/52915793/Harry-Potter"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
@@ -90,14 +98,6 @@ const Index = () => (
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             University Students Notification system
-          </ProjectCard>
-          <ProjectCard
-            title="Google Summer of Code 2019"
-            link="https://summerofcode.withgoogle.com/projects/#6387494919077888"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-          >
-            Web Interface for Representation of NLP based extracted Text under National Resource for Network Biology<br/>
-            <a href="https://rohitchattopadhyay.github.io/ihop-reach/" target="_blank">Progress Reports</a>
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
