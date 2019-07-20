@@ -80,7 +80,7 @@ const Index = () => (
           <ProjectCard
             title="Google Summer of Code 2019"
             link="https://summerofcode.withgoogle.com/projects/#6387494919077888"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+            bg="linear-gradient(to right, #636363 0%, #a2ab58 100%)"
           >
             Web Interface for Representation of NLP based extracted Text under National Resource for Network Biology<br/>
             <a href="https://rohitchattopadhyay.github.io/ihop-reach/" target="_blank">Progress Reports</a>
